@@ -1,0 +1,21 @@
+html , body {
+    margin: 0;
+    padding: 0;
+    background-color: #004AAD;
+}
+
+canvas{
+    display: block;
+}
+
+#cabecalho{
+    display: flex;
+    justify-content: center;
+    padding-top: 12px;
+  }
+  
+  #cjogo{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+  }
